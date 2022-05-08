@@ -1,6 +1,6 @@
-.TH SIMPLE_SHELL "1" "21 March 18" "Simple Shell Manpage" "simple_shell manpage"
+.TH SIMPLE_SHELL "1" "May 2022" "Simple Shell Manpage" "simple_shell manpage"
 .SH NAME
-.B hsh -a simple holberton shell replacement
+.B hsh -a simple ALX shell replacement
 .SH SYNOPSIS
 .B ./hsh
 .PP
@@ -104,6 +104,5 @@ No known bugs.
 .SS CD
 .SS History
 .SH AUTHORS
-Andrew Keil <andrew.keil@holbertonschool.com>
+
 .PP
-Mitali Sengupta <mitali.sengupta@holbertonschool.com>
