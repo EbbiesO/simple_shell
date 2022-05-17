@@ -1,10 +1,12 @@
 #include "shell.h"
 
+
 /**
  * _builtins - checks if the command is a builtin
  * @inputs: variables
  * Return: pointer to the function or NULL
  */
+
 void (*_builtins(input_t *inputs))(input_t *inputs)
 {
 	unsigned int i;
@@ -32,6 +34,7 @@ void (*_builtins(input_t *inputs))(input_t *inputs)
  * @inputs: struct of variables
  * Return: void.
  */
+ 
 void _env(input_t *inputs)
 {
 	unsigned int i;

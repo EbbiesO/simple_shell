@@ -108,6 +108,6 @@ man ./man_1_simple_shell
 This shell does not handle aliases, comments, or history.
 
 ### Authors
-*Your Name* - [Github](https://github.com/github Username)
+*Ebunoluwa Obaje* - [Github](https://github.com/EbbiesO/)
 
 *Adeyemi Misturah* - [Github](https://github.com/adunola142/)
